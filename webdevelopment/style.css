@@ -10,21 +10,22 @@ header {
 .hero h1 {
   color: #45B7DD;
   font-size: 36px;
+  text-align: center;
 }
 
 .hero p {
-  color: #5d9ed3;
+  color: #1F2A33;
   font-size: 18px;
 }
 
 .hero 
 {
-  background-color: #c2b280;
+  background-color: #e1d6b5;
   padding: 80px 40px;
 }
 .hero a:hover
  {
-   background-color: #2f8fb3;
+   background-color: #45B7DD;
 }
 
 .hero a {
